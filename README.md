@@ -8,7 +8,7 @@ Identification of such applicants using EDA is the aim of this case study.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Steps](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -23,11 +23,12 @@ Identification of such applicants using EDA is the aim of this case study.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Steps
+   #### Step1: Data Cleaning.
+   #### Step2: Univariate Analysis 
+   #### Step3: Segemented Univariate Analysis
+   #### Step4: Bivaraiate/Multivariate Analysis
+   #### Step5: Results
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
