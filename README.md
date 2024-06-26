@@ -7,7 +7,6 @@ Identification of such applicants using EDA is the aim of this case study.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Steps](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
@@ -76,8 +75,9 @@ Give credit here.
 
 - This project was submitted as a part of AI ML Course by IIIT - B and upgrad
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contributors
+- Pavan Andagi
+- Sudeep Paul
 
 
 <!-- Optional -->
