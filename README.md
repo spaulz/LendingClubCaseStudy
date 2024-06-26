@@ -8,11 +8,11 @@ Identification of such applicants using EDA is the aim of this case study.
 ## Table of Contents
 * [General Info](#general-information)
 * [Steps](#technologies-used)
-* [Columns used](#Columns used)
+* [Columns used](#Columnsused)
 * [Conclusions](#Conclusions)
-* [Technologies Used](#Technologies Used)
-* [Contributors](#Contributors)
+* [Technologies Used](#TechnologiesUsed)
 * [Acknowledgements](#acknowledgements)
+* [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
