@@ -8,6 +8,10 @@ Identification of such applicants using EDA is the aim of this case study.
 ## Table of Contents
 * [General Info](#general-information)
 * [Steps](#technologies-used)
+* [Columns used](#Columns used)
+* [Conclusions](#Conclusions)
+* [Technologies Used](#Technologies Used)
+* [Contributors](#Contributors)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -18,7 +22,7 @@ Identification of such applicants using EDA is the aim of this case study.
   The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders.
   In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 - If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
-- The dataset contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+- The dataset contains the complete loan data for all loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -69,6 +73,18 @@ Data frames:
         c. sel_loan_df_fp - same as b but for fully paid
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Conclusions
+- Whose income is less are given bad loans than those who has higher income
+- States like VT DE WV AL OK are given bad loans compared to the states like DC MS TN
+- As expected the performance of the applicant is inversely related to installment to be paid per month. More the installment lesser is the performance
+
+## Technologies Used
+- Panda
+- Numpy
+- Matplotlib
+- Seaborn
+
 
 ## Acknowledgements
 Give credit here.
